@@ -1,0 +1,5 @@
+*.env
+*.png
+.vscode
+*.pyc
+*.jpg
